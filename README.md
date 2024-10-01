@@ -5,11 +5,17 @@ The ATM Management System is a Java-based graphical user interface (GUI) applica
 
 # Features
 User Authentication: Secure login using account number and PIN with validation against stored account data.
+
 Balance Inquiry: View current account balance.
+
 Deposit: Add funds to the account.
+
 Withdraw: Remove funds from the account with balance checks.
+
 Change PIN: Update account PIN securely.
+
 Logout: Safely exit the ATM interface and return to the login screen.
+
 Graphical User Interface: Intuitive and user-friendly interface built with Java Swing.
 
 # Screenshots
